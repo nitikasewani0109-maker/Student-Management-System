@@ -1,13 +1,13 @@
 # Student-Management-System
 A Python based Student Management System using JSON file handling
 ## Features
--Add Student
--Search Student
--Delete Student
--View all Student
--Student portal
--Admin panel with password
--JSON Data Storage
+- Add Student
+- Search Student
+- Delete Student
+- View all Student
+- Student portal
+- Admin panel with password
+- JSON Data Storage
 ## Technologies
 - Python
 - JSON

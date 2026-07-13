@@ -1,0 +1,41 @@
+{
+    "101": {
+        "name": "Ankit Sewani",
+        "age": 18,
+        "class": "Btech",
+        "fathername": "MR Suresh sewani",
+        "mothername": "MRS. Kajal sewani",
+        "marks": {
+            "maths": 95,
+            "physics": 92,
+            "chemistry": 93,
+            "english": 95
+        }
+    },
+    "102": {
+        "name": "Nikhil",
+        "age": 18,
+        "class": "12",
+        "fathername": "mr.anirudh rathore",
+        "mothername": "mrs. Sonu rathore",
+        "marks": {
+            "maths": "67",
+            "physics": "78",
+            "chemistry": "98",
+            "english": "90"
+        }
+    },
+    "105": {
+        "name": "Aarush",
+        "age": 18,
+        "class": "12",
+        "fathername": "Mr. Anil Satsangi",
+        "mothername": "Mrs. Anita Satsangi",
+        "marks": {
+            "maths": "56",
+            "physics": "78",
+            "chemistry": "76",
+            "english": "45"
+        }
+    }
+}

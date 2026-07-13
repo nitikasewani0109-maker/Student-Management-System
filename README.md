@@ -1,6 +1,6 @@
 # Student-Management-System
 A Python based Student Management System using JSON file handling
-##Features
+## Features
 -Add Student
 -Search Student
 -Delete Student
